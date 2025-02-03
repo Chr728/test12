@@ -13,6 +13,13 @@ if not API_KEY:
 CITY = "Montreal"
 URL = f"http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric"
 
+log_file_path = 'logfile.txt'
+timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+# Open the log file in append mode
+with open(log_file_path, 'a') as log_file:
+    log_file.write(f'[{timestamp}] Script lstarted\n')
+
 # Fetch weather data
 response = requests.get(URL)
 if response.status_code != 200:
@@ -36,3 +43,7 @@ try:
     print("Weather data pushed to GitHub successfully!")
 except subprocess.CalledProcessError as e:
     print(f"Git error: {e}")
+
+
+with open(log_file_path, 'a') as log_file:
+    log_file.write(f'[{timestamp}] Script completed\n')
