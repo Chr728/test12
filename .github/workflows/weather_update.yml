@@ -3,6 +3,7 @@ name: Weather Auto-Update
 on:
   schedule:
     - cron: "0 */2 * * *"  # Runs every 2 hours
+  workflow_dispatch:  # Enables manual trigger
 
 jobs:
   update_weather:
