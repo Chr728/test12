@@ -8,33 +8,32 @@
             "id": 803,
             "main": "Clouds",
             "description": "broken clouds",
-            "icon": "04n"
+            "icon": "04d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -18.18,
-        "feels_like": -18.18,
-        "temp_min": -19.21,
-        "temp_max": -17.73,
-        "pressure": 1025,
-        "humidity": 81,
-        "sea_level": 1025,
-        "grnd_level": 1021
+        "temp": -16.59,
+        "feels_like": -23.59,
+        "temp_min": -18.65,
+        "temp_max": -15.48,
+        "pressure": 1022,
+        "humidity": 84,
+        "sea_level": 1022,
+        "grnd_level": 1018
     },
     "visibility": 10000,
     "wind": {
-        "speed": 1.13,
-        "deg": 96,
-        "gust": 1.82
+        "speed": 3.6,
+        "deg": 60
     },
     "clouds": {
-        "all": 78
+        "all": 75
     },
-    "dt": 1738836701,
+    "dt": 1738844978,
     "sys": {
         "type": 2,
-        "id": 2035189,
+        "id": 2095341,
         "country": "CA",
         "sunrise": 1738843736,
         "sunset": 1738879680
