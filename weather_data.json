@@ -15,7 +15,7 @@
     "main": {
         "temp": -7.81,
         "feels_like": -14.79,
-        "temp_min": -8.81,
+        "temp_min": -9.86,
         "temp_max": -7.33,
         "pressure": 1021,
         "humidity": 63,
@@ -25,18 +25,18 @@
     "visibility": 10000,
     "wind": {
         "speed": 5.14,
-        "deg": 270
+        "deg": 260
     },
     "clouds": {
         "all": 75
     },
-    "dt": 1738989464,
+    "dt": 1738991824,
     "sys": {
         "type": 1,
         "id": 498,
         "country": "CA",
-        "sunrise": 1738930055,
-        "sunset": 1738966169
+        "sunrise": 1739016374,
+        "sunset": 1739052657
     },
     "timezone": -18000,
     "id": 6077243,
