@@ -13,10 +13,10 @@
     ],
     "base": "stations",
     "main": {
-        "temp": -7.77,
-        "feels_like": -12.93,
+        "temp": -7.71,
+        "feels_like": -12.86,
         "temp_min": -8.52,
-        "temp_max": -7.33,
+        "temp_max": -7.22,
         "pressure": 1014,
         "humidity": 90,
         "sea_level": 1014,
@@ -33,7 +33,7 @@
     "clouds": {
         "all": 100
     },
-    "dt": 1739089936,
+    "dt": 1739091827,
     "sys": {
         "type": 1,
         "id": 498,
