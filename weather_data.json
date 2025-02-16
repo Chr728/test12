@@ -8,36 +8,36 @@
             "id": 601,
             "main": "Snow",
             "description": "snow",
-            "icon": "13d"
+            "icon": "13n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -10.67,
-        "feels_like": -17.67,
+        "temp": -10.58,
+        "feels_like": -17.58,
         "temp_min": -11.16,
         "temp_max": -9.96,
         "pressure": 991,
-        "humidity": 92,
+        "humidity": 90,
         "sea_level": 991,
         "grnd_level": 987
     },
-    "visibility": 134,
+    "visibility": 201,
     "wind": {
-        "speed": 9.77,
-        "deg": 40,
-        "gust": 15.43
+        "speed": 12.35,
+        "deg": 50,
+        "gust": 15.95
     },
     "snow": {
-        "1h": 0.75
+        "1h": 1.15
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1739744099,
+    "dt": 1739744700,
     "sys": {
-        "type": 2,
-        "id": 2095341,
+        "type": 1,
+        "id": 498,
         "country": "CA",
         "sunrise": 1739706866,
         "sunset": 1739744560
