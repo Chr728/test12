@@ -18,23 +18,23 @@
         "temp_min": -11.04,
         "temp_max": -9.99,
         "pressure": 988,
-        "humidity": 89,
+        "humidity": 90,
         "sea_level": 988,
         "grnd_level": 984
     },
-    "visibility": 2414,
+    "visibility": 1609,
     "wind": {
-        "speed": 7.2,
-        "deg": 360,
-        "gust": 10.29
+        "speed": 5.14,
+        "deg": 340,
+        "gust": 9.77
     },
     "snow": {
-        "1h": 0.27
+        "1h": 0.46
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1739760593,
+    "dt": 1739762421,
     "sys": {
         "type": 1,
         "id": 498,
