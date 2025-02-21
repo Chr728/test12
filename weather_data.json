@@ -15,8 +15,8 @@
     "main": {
         "temp": -8.16,
         "feels_like": -15.16,
-        "temp_min": -9.86,
-        "temp_max": -7.19,
+        "temp_min": -9.44,
+        "temp_max": -6.99,
         "pressure": 1022,
         "humidity": 63,
         "sea_level": 1022,
@@ -31,7 +31,7 @@
     "clouds": {
         "all": 75
     },
-    "dt": 1740162416,
+    "dt": 1740163160,
     "sys": {
         "type": 1,
         "id": 498,
