@@ -13,13 +13,13 @@
     ],
     "base": "stations",
     "main": {
-        "temp": -9.58,
-        "feels_like": -16.58,
-        "temp_min": -10.47,
-        "temp_max": -9.33,
-        "pressure": 1022,
-        "humidity": 66,
-        "sea_level": 1022,
+        "temp": -9.38,
+        "feels_like": -16.38,
+        "temp_min": -10.44,
+        "temp_max": -8.86,
+        "pressure": 1023,
+        "humidity": 67,
+        "sea_level": 1023,
         "grnd_level": 1019
     },
     "visibility": 10000,
@@ -30,7 +30,7 @@
     "clouds": {
         "all": 100
     },
-    "dt": 1740151039,
+    "dt": 1740152151,
     "sys": {
         "type": 1,
         "id": 498,
