@@ -5,16 +5,16 @@
     },
     "weather": [
         {
-            "id": 600,
-            "main": "Snow",
-            "description": "light snow",
-            "icon": "13n"
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -3.75,
-        "feels_like": -10.3,
+        "temp": -3.79,
+        "feels_like": -10.36,
         "temp_min": -4.48,
         "temp_max": -3.33,
         "pressure": 1014,
@@ -27,13 +27,10 @@
         "speed": 6.17,
         "deg": 240
     },
-    "snow": {
-        "1h": 0.13
-    },
     "clouds": {
         "all": 100
     },
-    "dt": 1740291737,
+    "dt": 1740292514,
     "sys": {
         "type": 1,
         "id": 498,
