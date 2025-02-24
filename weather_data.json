@@ -5,18 +5,18 @@
     },
     "weather": [
         {
-            "id": 501,
+            "id": 500,
             "main": "Rain",
-            "description": "moderate rain",
+            "description": "light rain",
             "icon": "10n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 2.99,
-        "feels_like": -3.01,
+        "temp": 3.05,
+        "feels_like": -2.93,
         "temp_min": 2.18,
-        "temp_max": 3.67,
+        "temp_max": 3.91,
         "pressure": 1002,
         "humidity": 74,
         "sea_level": 1002,
@@ -29,12 +29,12 @@
         "gust": 15.95
     },
     "rain": {
-        "1h": 2.3
+        "1h": 0.16
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1740436553,
+    "dt": 1740438392,
     "sys": {
         "type": 1,
         "id": 498,
