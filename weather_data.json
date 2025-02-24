@@ -8,33 +8,33 @@
             "id": 501,
             "main": "Rain",
             "description": "moderate rain",
-            "icon": "10d"
+            "icon": "10n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 3.02,
-        "feels_like": -2.81,
-        "temp_min": 2.3,
-        "temp_max": 4.02,
-        "pressure": 1003,
-        "humidity": 72,
-        "sea_level": 1003,
-        "grnd_level": 999
+        "temp": 2.99,
+        "feels_like": -3.01,
+        "temp_min": 2.18,
+        "temp_max": 3.67,
+        "pressure": 1002,
+        "humidity": 74,
+        "sea_level": 1002,
+        "grnd_level": 998
     },
     "visibility": 10000,
     "wind": {
-        "speed": 9.26,
+        "speed": 9.77,
         "deg": 180,
         "gust": 15.95
     },
     "rain": {
-        "1h": 3.1
+        "1h": 2.3
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1740435471,
+    "dt": 1740436553,
     "sys": {
         "type": 1,
         "id": 498,
