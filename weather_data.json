@@ -13,8 +13,8 @@
     ],
     "base": "stations",
     "main": {
-        "temp": 1.46,
-        "feels_like": -3.17,
+        "temp": 1.44,
+        "feels_like": -3.19,
         "temp_min": 0.79,
         "temp_max": 1.67,
         "pressure": 1005,
@@ -30,7 +30,7 @@
     "clouds": {
         "all": 100
     },
-    "dt": 1740543755,
+    "dt": 1740544819,
     "sys": {
         "type": 1,
         "id": 498,
