@@ -20,13 +20,13 @@
         "pressure": 995,
         "humidity": 91,
         "sea_level": 995,
-        "grnd_level": 991
+        "grnd_level": 992
     },
     "visibility": 10000,
     "wind": {
         "speed": 8.23,
         "deg": 240,
-        "gust": 12.86
+        "gust": 12.35
     },
     "rain": {
         "1h": 0.51
@@ -34,7 +34,7 @@
     "clouds": {
         "all": 100
     },
-    "dt": 1740724012,
+    "dt": 1740724487,
     "sys": {
         "type": 1,
         "id": 498,
