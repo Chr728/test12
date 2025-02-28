@@ -8,15 +8,15 @@
             "id": 803,
             "main": "Clouds",
             "description": "broken clouds",
-            "icon": "04d"
+            "icon": "04n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -8.31,
-        "feels_like": -13.58,
+        "temp": -8.53,
+        "feels_like": -13.85,
         "temp_min": -8.87,
-        "temp_max": -7.73,
+        "temp_max": -8.25,
         "pressure": 1007,
         "humidity": 52,
         "sea_level": 1007,
@@ -30,7 +30,7 @@
     "clouds": {
         "all": 75
     },
-    "dt": 1740781159,
+    "dt": 1740782405,
     "sys": {
         "type": 1,
         "id": 498,
