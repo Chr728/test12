@@ -8,32 +8,33 @@
             "id": 801,
             "main": "Clouds",
             "description": "few clouds",
-            "icon": "02d"
+            "icon": "02n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -5.77,
-        "feels_like": -11.47,
-        "temp_min": -7.09,
-        "temp_max": -4.42,
-        "pressure": 1022,
-        "humidity": 65,
-        "sea_level": 1022,
-        "grnd_level": 1018
+        "temp": -0.93,
+        "feels_like": -3.73,
+        "temp_min": -1.99,
+        "temp_max": -0.32,
+        "pressure": 1025,
+        "humidity": 58,
+        "sea_level": 1025,
+        "grnd_level": 1021
     },
     "visibility": 10000,
     "wind": {
-        "speed": 4.12,
-        "deg": 280
+        "speed": 2.15,
+        "deg": 241,
+        "gust": 7.05
     },
     "clouds": {
-        "all": 20
+        "all": 23
     },
-    "dt": 1744201625,
+    "dt": 1744247387,
     "sys": {
-        "type": 1,
-        "id": 498,
+        "type": 2,
+        "id": 2095341,
         "country": "CA",
         "sunrise": 1744193944,
         "sunset": 1744241532
