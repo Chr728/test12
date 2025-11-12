@@ -5,47 +5,39 @@
     },
     "weather": [
         {
-            "id": 601,
-            "main": "Snow",
-            "description": "snow",
-            "icon": "13n"
-        },
-        {
-            "id": 701,
-            "main": "Mist",
-            "description": "mist",
-            "icon": "50n"
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -0.56,
-        "feels_like": -6.25,
-        "temp_min": -1.64,
-        "temp_max": 0.01,
-        "pressure": 1002,
-        "humidity": 97,
-        "sea_level": 1002,
+        "temp": -1.87,
+        "feels_like": -8.64,
+        "temp_min": -2.82,
+        "temp_max": -1.1,
+        "pressure": 1003,
+        "humidity": 83,
+        "sea_level": 1003,
         "grnd_level": 999
     },
-    "visibility": 1006,
+    "visibility": 10000,
     "wind": {
-        "speed": 6.17,
-        "deg": 270
-    },
-    "snow": {
-        "1h": 3.65
+        "speed": 7.72,
+        "deg": 280,
+        "gust": 11.32
     },
     "clouds": {
-        "all": 100
+        "all": 75
     },
-    "dt": 1762822204,
+    "dt": 1762908209,
     "sys": {
         "type": 1,
         "id": 498,
         "country": "CA",
-        "sunrise": 1762775209,
-        "sunset": 1762810193
+        "sunrise": 1762861694,
+        "sunset": 1762896523
     },
     "timezone": -18000,
     "id": 6077243,
